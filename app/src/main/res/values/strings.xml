@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">db_sqlite_mi2a</string>
+    <string name="age_n_n">Age\n\n</string>
+    <string name="name_n_n">Name\n\n</string>
+    <string name="print_name">Print Name</string>
+    <string name="add_name">Add Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
